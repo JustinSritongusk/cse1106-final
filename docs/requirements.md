@@ -10,4 +10,4 @@
 
 ## LED Connected to a Raspberry Pi lights up when room is full
 
-##Allows changes to maximum room capacity
+## Allows changes to maximum room capacity
